@@ -1,4 +1,4 @@
-module github.com/shoooooman/go-complexity-analysis
+module github.com/teststudyacc2/CodeParser
 
 go 1.15
 
